@@ -24,7 +24,7 @@ layout: default
 			<div class="service-container">
 				<h5>Services Performed</h5>
 				<ul class="services">
-					{% for item in site.data.services%}
+					{% for item in page.services_performed %}
 						<li class="service">{{ item.name }}</li>
 					{% endfor %}
 				</ul>
