@@ -85,9 +85,17 @@ nav.main-nav {
 
 .menu-btn {
   display: inline-block;
-  vertical-align: middle;
+  float: right;
+  margin: 50px 25px 0 0;
+  background: none;
+  border: none;
+  font-size: 135%;
+  font-family: $heading-font-family;
   @include breakpoint($tablet, $no-query: '.no-mq') {
     display: none;
+  }
+  img {
+    padding-right: .5em;
   }
 }
 nav.main-nav {
@@ -96,8 +104,12 @@ nav.main-nav {
       position: absolute;
       left: 0;
       z-index: 99;
-      background: #fff;
+      background: rgba(255,255,255,0.95);
       width: 100%;
+      padding: 2em 0;
+      font-weight: 700;
+      transition: .25s all linear;
+      box-shadow: 0 2px 4px rgba(0,0,0,0.8);
     }
   }
   .hide {

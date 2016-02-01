@@ -2,11 +2,13 @@
 	@include clearfix;
 	margin-bottom: 2em;
 	img {
-		float: none;
-		width: 100%;
-		padding: 10px;
-		text-align: center;
-		@include breakpoint($tablet, $no-query: '.no-mq') { @include grid-span(3,1); }
+		float: left;
+    padding: 1em 2em 1em 0em;
+    max-width: 110px;
+		@include breakpoint($tablet, $no-query: '.no-mq') { 
+			@include grid-span(3,1); 
+			max-width: none;
+		}
 	}
 	.staff-title, .staff-bio {
 		float: none;

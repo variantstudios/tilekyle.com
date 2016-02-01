@@ -1,5 +1,5 @@
 $(document).ready(function() {
-  $('nav.main-nav').before('<button class="menu-btn">Menu</button>');
+  $('nav.main-nav').before('<button class="menu-btn"><img src="/assets/images/menu.svg" />Menu</button>');
   $('nav.main-nav ul').addClass('hide');
 
   $(".menu-btn").click(function() {
