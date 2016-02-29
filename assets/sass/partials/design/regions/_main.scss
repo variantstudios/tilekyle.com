@@ -11,6 +11,9 @@ main {
   }
   .backstretch {
     margin-top: -250px !important; 
+    @include breakpoint($phone) { 
+      height: 250px !important;
+    }
     @include breakpoint($tablet, $no-query: '.no-mq') { 
       margin-top: 0 !important; 
     }
@@ -33,9 +36,13 @@ main {
   }
   h1 {
     color: #fff;
+    font-size: 2.15em;
+    @include breakpoint($tablet, $no-query: '.no-mq') {
+      font-size: 2.35em;
+    }
   }
   p {
-    font-size: 1.1em;
+    font-size: 1em;
     font-weight: 300;
     @include breakpoint($tablet, $no-query: '.no-mq') {
       font-size: 1.2em;
@@ -44,7 +51,7 @@ main {
 }
 .content-wrapper {
   margin-top: 1em;
-	padding: 2em;
+	padding: 2em 1.5em;
   max-width: 1200px;
   @include breakpoint($tablet, $no-query: '.no-mq') { padding: 3em 64px; }
 }

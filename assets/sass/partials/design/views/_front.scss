@@ -2,7 +2,7 @@
   .front-page-content {
     color: white;
     @include text-shadow(1px, 0px, 3px, rgba(black,.4));   
-    padding: 1em 2em 2em;
+    padding: 16em 1em 2em;
     @include grad(rgba(black,0), rgba(black,.7));
     @include breakpoint($tablet, $no-query: '.no-mq') { 
       position: fixed;
@@ -27,9 +27,15 @@
     }
     a, a:visited, a:active {
       display: block;
-      margin-top: 17px;
+      font-size: 1.1em;      
       color: $color-four;
       text-decoration: none;
+      img {
+        margin-top: 20px;
+        display: inline-block;
+        margin-bottom: -10px;
+        padding-left: .5em;
+      }
     }
     .services {
       clear: both;
