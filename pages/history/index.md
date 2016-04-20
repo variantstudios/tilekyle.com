@@ -3,7 +3,7 @@ layout: page
 title: History
 subtitle: A brief background of our company and a message from our founder.
 permalink: /history/
-header_image_path: ../assets/images/work/wendys/003.jpg
+header_image_path: /assets/images/work/wendys/003.jpg
 ---
 
 
