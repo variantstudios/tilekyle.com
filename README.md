@@ -1,4 +1,4 @@
-# canfieldcustompumps.com
+# tiletyle.com
 
 # Get your local environment setup on OSX
 
@@ -17,10 +17,10 @@
 ## Clone the repo
 
 Create and move to the directory where you want to copy the site/repo:
-{% highlight ruby %} $ mkdir ~/VS/canfieldcustompumps.com/local && ~/VS/canfieldcustompumps.com/local {% endhighlight %}
+{% highlight ruby %} $ mkdir ~/VS/tiletyle.com/local && ~/VS/tiletyle.com/local {% endhighlight %}
 
 Clone the repo into the local directory:
-{% highlight ruby %} $ git clone https://github.com/variantstudios/canfieldcustompumps.com . {% endhighlight %}
+{% highlight ruby %} $ git clone https://github.com/variantstudios/tiletyle.com . {% endhighlight %}
 
 ## Setup the site
 
