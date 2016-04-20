@@ -6,7 +6,6 @@ permalink: /contact/
 header_image_path: /assets/images/work/wendys/003.jpg
 ---
 
-
-Contact content goes here.
+Call us at (970) 460-8590 or send an email:
 
 {% include contact-form.html %}
