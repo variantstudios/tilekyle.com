@@ -22,6 +22,7 @@ main {
 .page-header {
   position: relative;
   color: $heading-color;
+  width: 100%;
   @include text-shadow(1px, 0px, 3px, rgba(black,.4));
   padding: 2em 2em;
   background-color: #363C41;

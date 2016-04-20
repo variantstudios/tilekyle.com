@@ -2,7 +2,7 @@
 layout: work
 title: Wendy's
 description: Ut arcu lacus, euismod et posuere a, pretium id mi. Nullam felis elit, pulvinar at ex nec, euismod fringilla orci. Donec arcu ante, feugiat pellentesque lectus nec, placerat convallis lorem. Fusce dignissim felis justo, in rhoncus nunc efficitur vitae. Sed non accumsan quam, sit amet molestie risus. Curabitur vel tortor metus. Vivamus varius pulvinar nunc, sed placerat justo imperdiet quis.
-location: Aurora, CO
+location: Aurora, Colorado
 permalink: /work/wendys/
 images:
   - image_path: "/assets/images/work/wendys/wendys-thumb.jpg"
