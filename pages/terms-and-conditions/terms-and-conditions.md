@@ -2,7 +2,7 @@
 layout: page
 title: "Terms and Conditions"
 permalink: /terms-and-conditions/
-header_image_path: "../assets/images/work/wendys/003.jpg"
+header_image_path: "/assets/images/work/wendys/003.jpg"
 ---
 
 1. ACCEPTANCE. Canfield Custom Pumps, Inc. (hereinafter called “Seller) hereby acknowledges Purchaser’s order. THE ORDER WILL BE FILLED, SUBJECT TO THE TERMS AND CONDITIONS SET FORTH HEREIN, WHICH SUPERCEDE ANY INCONSISTENT OR ADDITIONAL TERMS AND CONDITIONS CONTAINED IN PURCHASER’S ORDER FORM. There are no agreements or representations, oral or otherwise, outside of this acknowledgment.
