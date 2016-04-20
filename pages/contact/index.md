@@ -11,7 +11,9 @@ Contact content goes here.
 
 <form action="#" method="post" class="contact-form">
   <!-- the redirect_to is optional, the form will redirect to the referrer on submission -->
-  <input type='hidden' name='redirect_to' value='' />
+   <input type="hidden" name="_to" value="kyle@tilekyle.com">
+  <input type="hidden" name="_subject" value="TileKyle.com">
+  <input type="text" name="_gotcha" style="display: none;">
   <!-- all your input fields here.... -->
     <div class="webform-component">
         <label for="name">Name</label>
