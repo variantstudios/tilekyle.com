@@ -1,10 +1,11 @@
 ---
 layout: page
-title: "History"
-subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco."
+title: History
+subtitle: A brief background of our company and a message from our founder.
 permalink: /history/
-header_image_path: "../assets/images/work/wendys/003.jpg"
+header_image_path: ../assets/images/work/wendys/003.jpg
 ---
+
 
 After our founder, Kyle Schnellmann, left the U.S. Army he had no idea what he was going to do, but he knew that he wanted to start his own business. He read numerous management, leadership, and business related books i.e. E-Myth Revisited, Who Moved My Cheese, etc. and he thought starting a business would be easy. In theory, everything seems easy.
 
@@ -20,12 +21,12 @@ Through his sister’s connection to a subcontractor, Kyle landed his first comm
 
 Since then, Tile Kyle & Company Inc. has completed numerous restaurants, retail, and government projects, while building great relationships with many general contractors and suppliers.
 
-###Message from Tile Kyle & Company's founder: 
+### Message from Tile Kyle & Company's founder:
 
-I have learned a lot about our industry and business since the first tile I set back in 2004. Our team is committed to learning new products and methods, as well as sticking to those products and methods that are industry proven. 
+I have learned a lot about our industry and business since the first tile I set back in 2004. Our team is committed to learning new products and methods, as well as sticking to those products and methods that are industry proven.
 
 Are clients deserve a professional high quality tile installation every single time we’re contracted. We pride ourselves on having great communication, small punch lists and fewer call backs than our competitors.
 
 For those who have trusted Tile Kyle & Company Inc. for all of your ceramic tile and stone needs, thank you for helping my dream come true!
 
-#####Kyle Schnellmann
+##### Kyle Schnellmann
