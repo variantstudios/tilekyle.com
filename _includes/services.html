@@ -1,0 +1,6 @@
+<div class="services">
+{% for service in site.data.services %}
+	<h4 class="service-name">{{ service.name }}</h4>
+	<div class="service-description">{{ service.description }}</div>
+{% endfor %}
+</div>
