@@ -19,12 +19,14 @@ images:
   - image_path: /assets/images/work/five-guys-broomfield/11.jpg
   - image_path: /assets/images/work/five-guys-broomfield/12.jpg
 services_performed:
-  - name: Ceramic Tile Design
-  - name: Value Engineering
-  - name: Flooring Demolition
-  - name: Floor Preparation
-  - name: Waterproofing and Anti Fracture Membranes
-  - name: Heated Flooring Ceramic/Porcelain Tile Installation
+  - name: Waterproofing
+  - name: Quarry Tile
+  - name: Epoxy Grout
+  - name: Ceramic Wall Tile
+  - name: Porcelain Floor Tile
+  - name: Grout Sealer
+  - name: Cove Base
+  - name: Tile Base
 ---
 
 
