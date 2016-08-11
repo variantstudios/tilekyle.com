@@ -1,21 +1,32 @@
 ---
 layout: page
-title: "Work"
-subtitle: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
+title: Work
+subtitle: 'We have a broad portfolio which includes, but limited to, restaurants, retail, senior living, and gas stations.'
 permalink: /work/
-header_image_path: "/assets/images/work/wendys/003.jpg"
+header_image_path: /assets/images/work/wendys/003.jpg
 ---
 
+
 <div class="product-items">
-  {% for work in site.work %}
+
   	<div class="product-item">
-  	  	<a href="{{ work.permalink }}">
+  	  	<a href="/work/five-guys-burgers-and-fries/">
   	  		<div class="product-image">
-            <img src="{{ work.images.first.image_path }}" alt="{{ work.title }}">
+            <img src="/assets/images/work/five-guys-broomfield/five-guys-broomfield_thumb.jpg" alt="Five Guys Burgers and Fries" />
           </div>
-  		    <h2 class="product-title">{{ work.title }}</h2>
-  		    <h5 class="product-location">{{ work.location }}</h5>
+  		    <h2 class="product-title">Five Guys Burgers and Fries</h2>
+  		    <h5 class="product-location">Broomfield, Colorado</h5>
   	  	</a>
   	</div>
-  {% endfor %}
+
+  	<div class="product-item">
+  	  	<a href="/work/wendys/">
+  	  		<div class="product-image">
+            <img src="/assets/images/work/wendys/wendys-thumb.jpg" alt="Wendy's" />
+          </div>
+  		    <h2 class="product-title">Wendy's</h2>
+  		    <h5 class="product-location">Aurora, Colorado</h5>
+  	  	</a>
+  	</div>
+
 </div>
