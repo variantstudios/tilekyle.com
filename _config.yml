@@ -1,7 +1,7 @@
 # Site settings
 title: Tile Kyle
 email: team@variantstudios.com
-description: 
+description:
 baseurl: "http://www.tilekyle.com" # the subpath of your site, e.g. /blog/
 url: "http://www.tilekyle.com" # the base hostname & protocol for your site
 timezone: America/Denver
@@ -28,6 +28,13 @@ collections:
     output: true
     permalink: /work/:title/
 
+defaults:
+  -
+    scope:
+      type: work
+    values:
+      layout: work
+
 # Blog Settings
 paginate: 3
 paginate_path: "/blog/page:num/"
@@ -37,16 +44,16 @@ reading_time:     true
 words_per_minute: 200
 
 # Disqus Comments
-disqus_short_name: 
-disqus_show_comment_count: 
+disqus_short_name:
+disqus_show_comment_count:
 
 # typekit
 typekit: "nbt2mna"
 
 # Social Media
-facebook: 
+facebook:
 
 # Google Analytics
-google_analytics_tracking_id: 
+google_analytics_tracking_id:
 
 exclude: ["vendor","node_modules","package.json","Gemfile","gulpfile.js","*.scss"]
