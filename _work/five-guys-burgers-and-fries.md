@@ -3,9 +3,8 @@ layout: work
 title: Five Guys Burgers and Fries
 description: Interior tenant finish.
 location: 'Broomfield, Colorado'
-permalink: /work/five-guys-burgers-and-fries/
+thumbnail_path: /assets/images/work/five-guys-broomfield/five-guys-broomfield_thumb.jpg
 images:
-  - image_path: /assets/images/work/five-guys-broomfield/five-guys-broomfield_thumb.jpg
   - image_path: /assets/images/work/five-guys-broomfield/01.jpg
   - image_path: /assets/images/work/five-guys-broomfield/02.jpg
   - image_path: /assets/images/work/five-guys-broomfield/03.jpg
@@ -28,5 +27,3 @@ services_performed:
   - name: Cove Base
   - name: Tile Base
 ---
-
-
