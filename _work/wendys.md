@@ -10,10 +10,14 @@ images:
   - image_path: /assets/images/work/wendys/002.jpg
   - image_path: /assets/images/work/wendys/003.jpg
 services_performed:
-  - name: Ceramic Tile Design
-  - name: Value Engineering
-  - name: Flooring Demolition
-  - name: Floor Preparation
-  - name: Waterproofing and Anti Fracture Membranes
-  - name: Heated Flooring Ceramic/Porcelain Tile Installation
+  - name: Floor Prep.
+  - name: Anti-Fracture Membrane
+  - name: Ceramic Tile
+  - name: Porcelain Tile
+  - name: Quarry Tile
+  - name: Waterproofing Membrane
+  - name: Epoxy Grout
+  - name: Exterior Tile
+  - name: Cove Base
+  - name: Schluter
 ---
