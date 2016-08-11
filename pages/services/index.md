@@ -5,11 +5,3 @@ subtitle: 'Tile is our specialty, but we can do all types of floor coverings as 
 permalink: /services/
 header_image_path: /assets/images/work/five-guys-broomfield/05.jpg
 ---
-
-
-<div class="services">
-{% for service in site.data.services %}
-	<h4 class="service-name">{{ service.name }}</h4>
-	<div class="service-description">{{ service.description }}</div>
-{% endfor %}
-</div>
