@@ -2,7 +2,7 @@
 title: Tile Kyle
 email: team@variantstudios.com
 description:
-baseurl: "http://www.tilekyle.com" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://www.tilekyle.com" # the base hostname & protocol for your site
 timezone: America/Denver
 version: "3.1.6" # the version of jekyll
