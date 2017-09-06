@@ -55,6 +55,6 @@ typekit: "nbt2mna"
 facebook:
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: "UA-1299264-75"
 
 exclude: ["vendor","node_modules","package.json","Gemfile","gulpfile.js","*.scss"]
