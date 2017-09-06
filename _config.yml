@@ -3,20 +3,14 @@ title: Tile Kyle
 email: team@variantstudios.com
 description:
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://www.tilekyle.com" # the base hostname & protocol for your site
+url: "https://tilekyle.com" # the base hostname & protocol for your site
 timezone: America/Denver
-version: "3.1.6" # the version of jekyll
+#version: "3.1.6" # the version of jekyll
 
 # Gems for plugins
 gems:
   - jekyll-paginate # Needed to add paginate on Jekyll ver 3+
   - jekyll-sitemap # Simple jekyll plugin that creates a sitemap.xml file and you can exclude files by adding 'sitemap:false' to the frontmatter of any file(s).
-
-
-# Site Author(s)
-author:
-  name: Brent Robbins
-  email: brent@showmesomethingcool.com
 
 # Build settings
 highlighter: pygments
