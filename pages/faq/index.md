@@ -4,7 +4,7 @@ title: FAQ
 subtitle: Do you have questions? Below you will find a few commonly asked questions and answers.
 permalink: /faq/
 header_image_path: /assets/images/work/five-guys-broomfield/06.jpg
-faq:
+faqs:
   - question: Does Tile Kyle & Company Inc. provide other flooring products for commercial projects?
     answer: Yes, we can and will bid other products as necessary for the general contractor’s needs. Including carpet, carpet tile, VCT, LVT, sheet vinyl, thin brick, and stone veneers.
   - question: What size tile projects is Tile Kyle & Company able to contract?
