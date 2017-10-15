@@ -2,7 +2,6 @@
 layout: page
 title: History
 subtitle: A brief background of our company and a message from our founder.
-
 header_image_path: /assets/images/work/wendys/003.jpg
 search_engine_optimization:
   page_title: "History of Tile Kyle"
