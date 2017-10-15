@@ -2,7 +2,6 @@
 layout: page
 title: FAQ
 subtitle: Do you have questions? Below you will find a few commonly asked questions and answers.
-permalink: /faq/
 header_image_path: /assets/images/work/five-guys-broomfield/06.jpg
 faqs:
   - question: Does Tile Kyle & Company Inc. provide other flooring products for commercial projects?
@@ -22,4 +21,5 @@ _comments:
     This is the page description that is shown below the page title in the
     search engine results.
   facebook_image_path: Use images that are at least 1200 x 630px for best results or a minimum of at least 600 x 315px. 
+permalink: /faq/
 ---
