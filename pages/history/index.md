@@ -2,7 +2,7 @@
 layout: page
 title: History
 subtitle: A brief background of our company and a message from our founder.
-permalink: /history/
+
 header_image_path: /assets/images/work/wendys/003.jpg
 search_engine_optimization:
   page_title: "History of Tile Kyle"
@@ -14,7 +14,8 @@ _comments:
   page_description: >-
     This is the page description that is shown below the page title in the
     search engine results.
-  facebook_image_path: Use images that are at least 1200 x 630px for best results or a minimum of at least 600 x 315px. 
+  facebook_image_path: Use images that are at least 1200 x 630px for best results or a minimum of at least 600 x 315px.
+permalink: /history/
 ---
 
 
