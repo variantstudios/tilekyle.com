@@ -32,7 +32,7 @@ search_engine_optimization:
   page_title: "Tile Kyle Services"
   page_description: >-
     Tile is our specialty, but we can do all types of floor coverings as well. Below you will find many of the services we provide.
-  facebook_image_path: /assets/images/tilekyle-facebook-1200x630
+  facebook_image_path: /assets/images/tilekyle-facebook-1200x630.png
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
