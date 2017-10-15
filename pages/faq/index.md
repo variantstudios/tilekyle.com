@@ -14,7 +14,7 @@ search_engine_optimization:
   page_title: "FAQ"
   page_description: >-
     Do you have questions? Below you will find a few commonly asked questions and answers.
-  facebook_image_path: /assets/images/tilekyle-facebook-1200x630
+  facebook_image_path: /assets/images/tilekyle-facebook-1200x630.png
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
