@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-subtitle: "Who we are and what we've done."
+subtitle: Who we are and what we've done.
 staff:
   - name: Kyle Schnellmann
     position: President
@@ -11,51 +11,53 @@ staff:
       321st FAR (airborne), the only 155 mm airborne field artillery unit in the
       world. Kyle made the rank of Sergeant in less than three years. Before he
       was discharged from active duty, he knew he wanted to start his own
-      business. A few opportunities eventually led him to the tile trade. He fell
-      in love with utilizing his hands to create custom work within customer’s
-      homes. With 11 years of experience in the tile industry, Kyle prides himself
-      on providing a professional, consistent and a high quality experience for
-      all of his clients. Kyle is supported by his wife Christina and three boys
-      Raleigh, Warner, and Oliver. In his free time, Kyle enjoys hunting, fishing
-      and dirt biking in the beautiful Rocky Mountains. He’s always willing to
-      lend an ear, but likely to lend an opinion as well!
-  - name: Greg Mollendor
-    position: Production Manager
-    image_path: /assets/images/profile.png
-    bio: >-
-      Greg has over 27 years of experience as a tile setter. He was professionally
-      training by the Tile Marble & Terrazzo Union and served as a journeyman
-      layer for 2 years. He joined Tile Kyle & Company Inc. in 2008 as a tile
-      setter. In the field, Greg ran the most precise and efficient tile setting
-      crew making it easy to promote him into a production manager role. Greg
-      takes impeccable care of our clients with clear, concise communication. Greg
-      is supported by his wife, Melisa, of 22 years and their four children. In
-      his free time, he enjoys coaching youth football, camping, championship drag
-      racing and a cold brew now and then.
+      business. A few opportunities eventually led him to the tile trade. He
+      fell in love with utilizing his hands to create custom work within
+      customer’s homes. With 11 years of experience in the tile industry, Kyle
+      prides himself on providing a professional, consistent and a high quality
+      experience for all of his clients. Kyle is supported by his wife Christina
+      and three boys Raleigh, Warner, and Oliver. In his free time, Kyle enjoys
+      hunting, fishing and dirt biking in the beautiful Rocky Mountains. He’s
+      always willing to lend an ear, but likely to lend an opinion as well!
   - name: Ed Zurasky
     position: Estimator
     image_path: /assets/images/profile.png
     bio: >-
-      Ed has been in the flooring industry for over 30 years. He started out as a
-      carpet and resilient installer and worked his way up the ladder. He has
-      sales experience in both commercial and residential flooring. He received an
-      Armstrong Commercial sales award for a linoleum project at the Aims
+      Ed has been in the flooring industry for over 30 years. He started out as
+      a carpet and resilient installer and worked his way up the ladder. He has
+      sales experience in both commercial and residential flooring. He received
+      an Armstrong Commercial sales award for a linoleum project at the Aims
       Community College Health Sciences building. Ed spends his off time snow
-      skiing, riding a bicycle, and hiking. He loves spending time with his wife,
-      children, and grandchildren. If you catch him on a beach in Mexico, you’ll
-      find him with a good margarita and a smile on his face!
+      skiing, riding a bicycle, and hiking. He loves spending time with his
+      wife, children, and grandchildren. If you catch him on a beach in Mexico,
+      you’ll find him with a good margarita and a smile on his face!
+  - name: Greg Mollendor
+    position: Production Manager
+    image_path: /assets/images/profile.png
+    bio: >-
+      Greg has over 27 years of experience as a tile setter. He was
+      professionally training by the Tile Marble & Terrazzo Union and served as
+      a journeyman layer for 2 years. He joined Tile Kyle & Company Inc. in 2008
+      as a tile setter. In the field, Greg ran the most precise and efficient
+      tile setting crew making it easy to promote him into a production manager
+      role. Greg takes impeccable care of our clients with clear, concise
+      communication. Greg is supported by his wife, Melisa, of 22 years and
+      their four children. In his free time, he enjoys coaching youth football,
+      camping, championship drag racing and a cold brew now and then.
 permalink: /about-us/
 header_image_path: /assets/images/work/wendys/002.jpg
 search_engine_optimization:
-  page_title: "About Tile Kyle"
-  page_description: >-
-    Who we are and what we've done.
+  page_title: About Tile Kyle
+  page_description: Who we are and what we've done.
   facebook_image_path: /assets/images/tilekyle-facebook-1200x630.png
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
     This is the page description that is shown below the page title in the
     search engine results.
-  facebook_image_path: Use images that are at least 1200 x 630px for best results or a minimum of at least 600 x 315px. 
-permalink: /about-us/
+  facebook_image_path: >-
+    Use images that are at least 1200 x 630px for best results or a minimum of
+    at least 600 x 315px.
 ---
+
+
