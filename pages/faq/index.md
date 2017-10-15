@@ -4,6 +4,16 @@ title: FAQ
 subtitle: Do you have questions? Below you will find a few commonly asked questions and answers.
 permalink: /faq/
 header_image_path: /assets/images/work/five-guys-broomfield/06.jpg
+faq:
+  - question: Does Tile Kyle & Company Inc. provide other flooring products for commercial projects?
+    answer: Yes, we can and will bid other products as necessary for the general contractor’s needs. Including carpet, carpet tile, VCT, LVT, sheet vinyl, thin brick, and stone veneers.
+    weight: 1
+  - question: What size tile projects is Tile Kyle & Company able to contract?
+    answer: Our typical tile project size is 5,000 square feet. However, we have completed tile projects as large as 40,000 square feet.
+    weight: 2
+  - question: Is floor preparation included in commercial tile bids?
+    answer: Generally, floor prep is not included in our bids due to the unknown final subfloor condition. However, we are always happy to provide floor prep at an additional cost based on the condition and needs of the subfloor. These additional costs are submitted with a change order and approved by the general contractor prior to the floor prep being completed.
+    weight: 3
 search_engine_optimization:
   page_title: "FAQ"
   page_description: >-
