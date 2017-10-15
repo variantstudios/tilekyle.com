@@ -50,7 +50,7 @@ search_engine_optimization:
   page_title: "About Tile Kyle"
   page_description: >-
     Who we are and what we've done.
-  facebook_image_path: /assets/images/tilekyle-facebook-1200x630
+  facebook_image_path: /assets/images/tilekyle-facebook-1200x630.png
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
