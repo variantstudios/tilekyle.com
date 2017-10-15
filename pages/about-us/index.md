@@ -6,7 +6,7 @@ staff:
   - name: Kyle Schnellmann
     position: President
     image_path: /assets/images/profile.png
-    bio_description: >-
+    description: >-
       Kyle served in the U.S Army after high school. He served in 1st battalion,
       321st FAR (airborne), the only 155 mm airborne field artillery unit in the
       world. Kyle made the rank of Sergeant in less than three years. Before he
@@ -22,7 +22,7 @@ staff:
   - name: Greg Mollendor
     position: Production Manager
     image_path: /assets/images/profile.png
-    bio_description: >-
+    description: >-
       Greg has over 27 years of experience as a tile setter. He was professionally
       training by the Tile Marble & Terrazzo Union and served as a journeyman
       layer for 2 years. He joined Tile Kyle & Company Inc. in 2008 as a tile
@@ -35,7 +35,7 @@ staff:
   - name: Ed Zurasky
     position: Estimator
     image_path: /assets/images/profile.png
-    bio_description: >-
+    description: >-
       Ed has been in the flooring industry for over 30 years. He started out as a
       carpet and resilient installer and worked his way up the ladder. He has
       sales experience in both commercial and residential flooring. He received an
