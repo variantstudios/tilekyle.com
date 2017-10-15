@@ -7,7 +7,7 @@ header_image_path: /assets/images/work/wendys/002.jpg
 search_engine_optimization:
   page_title: "About Tile Kyle"
   page_description: >-
-    ho we are and what we've done.
+    Who we are and what we've done.
   facebook_image_path: /assets/images/tilekyle-facebook-1200x630
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
