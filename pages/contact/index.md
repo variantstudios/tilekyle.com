@@ -8,7 +8,7 @@ search_engine_optimization:
   page_title: "Contact Tile Kyle"
   page_description: >-
     Give us a call or send an email.
-  facebook_image_path: /assets/images/tilekyle-facebook-1200x630
+  facebook_image_path: /assets/images/tilekyle-facebook-1200x630.png
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
