@@ -23,7 +23,7 @@ services_performed:
 search_engine_optimization:
   page_title: "Wendy's"
   page_description: "Tile work on Wendy's in Aurora, Colorado"
-  facebook_image_path: /assets/images/tilekyle-facebook-1200x630
+  facebook_image_path: /assets/images/tilekyle-facebook-1200x630.png
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
