@@ -2,7 +2,6 @@
 layout: page
 title: Contact Us
 subtitle: Give us a call or send an email.
-permalink: /contact/
 header_image_path: /assets/images/work/five-guys-broomfield/07.jpg
 search_engine_optimization:
   page_title: "Contact Tile Kyle"
@@ -15,6 +14,7 @@ _comments:
     This is the page description that is shown below the page title in the
     search engine results.
   facebook_image_path: Use images that are at least 1200 x 630px for best results or a minimum of at least 600 x 315px. 
+permalink: /contact/
 ---
 
 9969 County Road 74
