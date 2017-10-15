@@ -1,1 +1,6 @@
-{% assign faqs = site.data.faq %}{% for faq in faqs	sort: 'weight' %}<div class="faq-item"> <h4 class="faq-question" >Q: {{ faq.question }}</h4> <div class="faq-answer">A: {{ faq.answer }}</div></div>{% endfor %}
+{% for faq in page.faqs	 %}
+<div class="faq-item"> 
+<h4 class="faq-question" >Q: {{ faq.question }}</h4> 
+<div class="faq-answer">A: {{ faq.answer }}</div>
+</div>
+{% endfor %}
