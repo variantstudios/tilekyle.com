@@ -26,4 +26,14 @@ services_performed:
   - name: Grout Sealer
   - name: Cove Base
   - name: Tile Base
+search_engine_optimization:
+  page_title: 'Five Guys Burgers and Fries'
+  page_description: 'Tile work on Five Guys Burgers and Fries in Broomfield, Colorado'
+  facebook_image_path: /assets/images/tilekyle-facebook-1200x630
+_comments:
+  page_title: This is the title that's specifically for Search Engine Optimization.
+  page_description: >-
+    This is the page description that is shown below the page title in the
+    search engine results.
+  facebook_image_path: Use images that are at least 1200 x 630px for best results or a minimum of at least 600 x 315px. 
 ---
