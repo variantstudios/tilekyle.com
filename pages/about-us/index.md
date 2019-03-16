@@ -24,8 +24,8 @@ staff:
     image_path: /assets/images/profile.png
     bio: >-
       Greg has over 27 years of experience as a tile setter. He was
-      professionally training by the Tile Marble & Terrazzo Union and served as
-      a journeyman layer for 2 years. He joined Tile Kyle & Company Inc. in 2008
+      professionally trained by the Tile Marble & Terrazzo Union and served as a
+      journeyman layer for 2 years. He joined Tile Kyle & Company Inc. in 2008
       as a tile setter. In the field, Greg ran the most precise and efficient
       tile setting crew making it easy to promote him into a production manager
       role. Greg takes impeccable care of our clients with clear, concise
@@ -59,5 +59,4 @@ _comments:
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
 ---
-
 
