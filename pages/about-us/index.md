@@ -13,7 +13,7 @@ staff:
       was discharged from active duty, he knew he wanted to start his own
       business. A few opportunities eventually led him to the tile trade. He
       fell in love with utilizing his hands to create custom work within
-      customer’s homes. With 11 years of experience in the tile industry, Kyle
+      customer’s homes. With 15 years of experience in the tile industry, Kyle
       prides himself on providing a professional, consistent and a high quality
       experience for all of his clients. Kyle is supported by his wife Christina
       and three boys Raleigh, Warner, and Oliver. In his free time, Kyle enjoys
@@ -60,3 +60,4 @@ _comments:
     at least 600 x 315px.
 ---
 
+Kyle served in the U.S Army after high school. He served in 1st battalion, 321st FAR (airborne), the only 155 mm airborne field artillery unit in the world. Kyle made the rank of Sergeant in less than three years. Before he was discharged from active duty, he knew he wanted to start his own business. A few opportunities eventually led him to the tile trade. He fell in love with utilizing his hands to create custom work within customer’s homes. With 15 years of experience in the tile industry, Kyle prides himself on providing a professional, consistent and a high quality experience for all of his clients. Kyle is supported by his wife Christina and three boys Raleigh, Warner, and Oliver. In his free time, Kyle enjoys hunting, fishing and dirt biking in the beautiful Rocky Mountains. He’s always willing to lend an ear, but likely to lend an opinion as well\!
