@@ -38,6 +38,6 @@ _comments:
   facebook_image_path: >-
     Use images that are at least 1200 x 630px for best results or a minimum of
     at least 600 x 315px.
-permalink: /faqs/
+permalink: /faq/
 ---
 
