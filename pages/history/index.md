@@ -17,7 +17,6 @@ _comments:
 permalink: /history/
 ---
 
-
 After our founder, Kyle Schnellmann, left the U.S. Army he had no idea what he was going to do, but he knew that he wanted to start his own business. He read numerous management, leadership, and business related books i.e. E-Myth Revisited, Who Moved My Cheese, etc. and he thought starting a business would be easy. In theory, everything seems easy.
 
 Kyle started a cleaning company which landed him in Minneapolis, MN turning apartments near the University of Minnesota. Once all of the apartments were cleaned, the owner asked Kyle to help with some odd jobs and maintenance. During this time, he was introduced to the tile trade.
@@ -36,8 +35,8 @@ Since then, Tile Kyle & Company Inc. has completed numerous restaurants, retail,
 
 I have learned a lot about our industry and business since the first tile I set back in 2004. Our team is committed to learning new products and methods, as well as sticking to those products and methods that are industry proven.
 
-Are clients deserve a professional high quality tile installation every single time we’re contracted. We pride ourselves on having great communication, small punch lists and fewer call backs than our competitors.
+Our clients deserve a professional high quality tile installation every single time we’re contracted. We pride ourselves on having great communication, small punch lists and fewer call backs than our competitors.
 
-For those who have trusted Tile Kyle & Company Inc. for all of your ceramic tile and stone needs, thank you for helping my dream come true!
+For those who have trusted Tile Kyle & Company Inc. for all of your ceramic tile and stone needs, thank you for helping my dream come true\!
 
 ##### Kyle Schnellmann
