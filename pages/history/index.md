@@ -39,4 +39,4 @@ Our clients deserve a professional high quality tile installation every single t
 
 For those who have trusted Tile Kyle & Company Inc. for all of your ceramic tile and stone needs, thank you for helping my dream come true\!
 
-##### Kyle Schnellmann
+##### Kyle Schnellmann, President
