@@ -25,7 +25,7 @@ faqs:
       additional costs are submitted with a change order and approved by the
       general contractor prior to the floor prep being completed.
 search_engine_optimization:
-  page_title: FAQ
+  page_title: FAQs
   page_description: >-
     Do you have questions? Below you will find a few commonly asked questions
     and answers.
