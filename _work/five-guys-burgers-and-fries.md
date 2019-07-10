@@ -5,7 +5,6 @@ description: Interior tenant finish.
 location: 'Broomfield, Colorado'
 thumbnail_path: /assets/images/work/five-guys-broomfield/five-guys-broomfield_thumb.jpg
 images:
-  - image_path: /assets/images/work/1.jpg
   - image_path: /assets/images/work/five-guys-broomfield/01.jpg
   - image_path: /assets/images/work/five-guys-broomfield/02.jpg
   - image_path: /assets/images/work/five-guys-broomfield/03.jpg
