@@ -5,6 +5,7 @@ description: Interior tenant finish.
 location: 'Broomfield, Colorado'
 thumbnail_path: /assets/images/work/five-guys-broomfield/five-guys-broomfield_thumb.jpg
 images:
+  - image_path: /assets/images/work/1.jpg
   - image_path: /assets/images/work/five-guys-broomfield/01.jpg
   - image_path: /assets/images/work/five-guys-broomfield/02.jpg
   - image_path: /assets/images/work/five-guys-broomfield/03.jpg
@@ -26,8 +27,9 @@ services_performed:
   - name: Grout Sealer
   - name: Cove Base
   - name: Tile Base
+  - name:
 search_engine_optimization:
-  page_title: 'Five Guys Burgers and Fries'
+  page_title: Five Guys Burgers and Fries
   page_description: 'Tile work on Five Guys Burgers and Fries in Broomfield, Colorado'
   facebook_image_path: /assets/images/tilekyle-facebook-1200x630.png
 _comments:
@@ -35,5 +37,8 @@ _comments:
   page_description: >-
     This is the page description that is shown below the page title in the
     search engine results.
-  facebook_image_path: Use images that are at least 1200 x 630px for best results or a minimum of at least 600 x 315px. 
+  facebook_image_path: >-
+    Use images that are at least 1200 x 630px for best results or a minimum of
+    at least 600 x 315px.
 ---
+
