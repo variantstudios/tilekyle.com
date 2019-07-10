@@ -5,7 +5,7 @@ subtitle: Who we are and what we've done.
 staff:
   - name: Kyle Schnellmann
     position: President
-    image_path: /uploads/picture-164139-1412039647.jpg
+    image_path:
     bio: >-
       Kyle served in the U.S Army after high school. He served in 1st battalion,
       321st FAR (airborne), the only 155 mm airborne field artillery unit in the
