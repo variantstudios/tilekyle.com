@@ -21,7 +21,7 @@ staff:
       always willing to lend an ear, but likely to lend an opinion as well!
   - name: Greg Mollendor
     position: Production Manager
-    image_path:
+    image_path: /assets/images/profile.png
     bio: >-
       Greg has over 27 years of experience as a tile setter. He was
       professionally trained by the Tile Marble & Terrazzo Union and served as a
