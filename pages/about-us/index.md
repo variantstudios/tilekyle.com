@@ -34,7 +34,7 @@ staff:
       camping, championship drag racing and a cold brew now and then.
   - name: Ed Zurasky
     position: Estimator
-    image_path:
+    image_path: /assets/images/picture-164139-1412039647.jpg
     bio: >-
       Ed has been in the flooring industry for over 30 years. He started out as
       a carpet and resilient installer and worked his way up the ladder. He has
