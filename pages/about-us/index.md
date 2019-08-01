@@ -46,7 +46,7 @@ staff:
       you’ll find him with a good margarita and a smile on his face!
   - name: Sheila Dorcey
     position: Office Manager & Project Coordinator
-    image_path:
+    image_path: /assets/images/profile.png
     bio: >-
       Sheila came to Tile Kyle in July 2019 with a wide variety of working
       experience, from early childhood development, to senior living, to event
