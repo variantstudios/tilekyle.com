@@ -44,6 +44,19 @@ staff:
       skiing, riding a bicycle, and hiking. He loves spending time with his
       wife, children, and grandchildren. If you catch him on a beach in Mexico,
       you’ll find him with a good margarita and a smile on his face!
+  - name: Sheila Dorcey
+    position: Office Manager & Project Coordinator
+    image_path:
+    bio: >-
+      Sheila came to Tile Kyle in July 2019 with a wide variety of working
+      experience, from early childhood development, to senior living, to event
+      planning, just to name a few.  She brings a diversity of skills to the
+      table, with organization being at the forefront of it all.  With a drive
+      to learn new things, she is excited to dive headfirst into the flooring
+      industry and help grow and develop the internal structures of the
+      company.  Sheila is married to her amazing husband and they have 2 kids. 
+      When she isn’t working, she is enjoying life on her family’s hobby farm
+      full of all kinds of fur babies and never ending projects!
 permalink: /about-us/
 header_image_path: /assets/images/work/wendys/002.jpg
 search_engine_optimization:
