@@ -5,6 +5,7 @@ description: New three story medical office building for Boulder Community Healt
 location: 'Boulder, Colorado'
 thumbnail_path: /uploads/img-1107.jpg
 images:
+  - image_path: /uploads/img-1107.jpg
   - image_path: /assets/images/work/Riverbend-MOB/IMG_1090.jpg
   - image_path: /assets/images/work/Riverbend-MOB/IMG_1093.jpg
   - image_path: /assets/images/work/Riverbend-MOB/IMG_1119.jpg
