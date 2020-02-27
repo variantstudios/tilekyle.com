@@ -9,7 +9,7 @@ images:
   - image_path: /assets/images/work/Riverbend-MOB/IMG_1097.jpg
   - image_path: /assets/images/work/Riverbend-MOB/IMG_1093.jpg
   - image_path: /assets/images/work/Riverbend-MOB/IMG_1119.jpg
-  - image_path: /uploads/img-1096.jpg
+  - image_path: /uploads/img-1106.jpg
 services_performed:
   - name: Ceramic Tile
   - name: Porcelain Tile Stairs
