@@ -22,9 +22,9 @@ services_performed:
   - name: Rubber Stair Treads & Risers
   - name: Carpet Tile
 search_engine_optimization:
-  page_title: Wendy's
-  page_description: 'Tile work on Wendy''s in Aurora, Colorado'
-  facebook_image_path: /assets/images/tilekyle-facebook-1200x630.png
+  page_title: Riverbend MOB
+  page_description: Flooring at Riverbend MOB
+  facebook_image_path: /uploads/20180924-120402.JPG
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
