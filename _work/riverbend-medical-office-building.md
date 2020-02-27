@@ -38,4 +38,3 @@ _comments:
     at least 600 x 315px.
 ---
 
-3rd Floor Seating Area
