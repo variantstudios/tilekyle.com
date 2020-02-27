@@ -15,9 +15,12 @@ services_performed:
   - name: Porcelain Tile Stairs
   - name: Epoxy Grout
   - name: Schluter
+  - name: Waterproofing
   - name: Moisture Mitigation (Planiseal VS)
   - name: LVT
+  - name: LVP
   - name: Sheet Vinyl
+  - name: Heat Weld
   - name: Rubber Tile
   - name: Rubber Stair Treads & Risers
   - name: Carpet Tile
