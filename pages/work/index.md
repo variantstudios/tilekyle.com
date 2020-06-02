@@ -17,4 +17,3 @@ _comments:
 permalink: /work/
 ---
 
-...
