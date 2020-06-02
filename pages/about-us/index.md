@@ -73,4 +73,3 @@ _comments:
     at least 600 x 315px.
 ---
 
-![](/uploads/20180924-120402.JPG){: width="4032" height="1960"}
