@@ -27,6 +27,7 @@ services_performed:
   - name: Cove Base
   - name: Tile Base
   - name:
+  - name:
 search_engine_optimization:
   page_title: Five Guys Burgers and Fries
   page_description: 'Tile work on Five Guys Burgers and Fries in Broomfield, Colorado'
@@ -41,3 +42,4 @@ _comments:
     at least 600 x 315px.
 ---
 
+Coming soon.
