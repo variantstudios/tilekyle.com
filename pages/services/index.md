@@ -42,4 +42,3 @@ _comments:
 permalink: /services/
 ---
 
-Coming soon.
