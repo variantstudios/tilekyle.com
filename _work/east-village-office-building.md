@@ -5,9 +5,8 @@ description: >-
   Renovation of an existing three-story office building with approximately
   138,000 GSF.
 location: 'Greenwood Village, CO'
-thumbnail_path: /assets/images/work/
+thumbnail_path: /uploads/Central Hall East.jpg
 images:
-  - image_path: /uploads/Central Hall East.jpg
   - image_path: /uploads/Central Hall Jewel Box.jpg
   - image_path: /uploads/Central Hall Lower Seating.jpg
   - image_path: /uploads/Central Hall South.jpg
@@ -19,15 +18,17 @@ images:
   - image_path: /uploads/West Lobby 2.jpg
   - image_path: /uploads/West Lobby.jpg
 services_performed:
-  - name: Waterproofing
-  - name: Large Format Tile
+  - name: Carpet Tile
+  - name: Walk-off Carpet
+  - name: Rubber Fitness Flooring
+  - name: Rubber Base
+  - name: 24" x 48" Porcelain Tile
   - name: Epoxy Grout
   - name: Schluter
-  - name: 24" x 48" Porcelain Tile
-  - name: Carpet Tile
-  - name: Rubber Fitness Flooring
   - name: Mosaic Tile
-  - name: Walk-off Carpet
+  - name: Shower Pans
+  - name: Waterproofing Membrane
+  - name: Crack Isolation Membrane
 search_engine_optimization:
   page_title: Office Building
   page_description:
