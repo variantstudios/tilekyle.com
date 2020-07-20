@@ -30,9 +30,12 @@ services_performed:
   - name: Waterproofing Membrane
   - name: Crack Isolation Membrane
 search_engine_optimization:
-  page_title: Office Building
-  page_description:
-  facebook_image_path: /assets/images/tilekyle-facebook-1200x630.png
+  page_title: East Village Office Building
+  page_description: >-
+    Renovation of an existing three-story office building with approximately
+    138,000 GSF. Tile atrium, showers, locker rooms, carpet conference, fitness
+    flooring, walk-off carpet tile.
+  facebook_image_path: /uploads/Central Hall East.jpg
 _comments:
   page_title: This is the title that's specifically for Search Engine Optimization.
   page_description: >-
