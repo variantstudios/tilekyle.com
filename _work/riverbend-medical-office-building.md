@@ -2,9 +2,11 @@
 layout: work
 title: Riverbend Medical Office Building
 description: >-
-  Three-story medical office building for Boulder Community Health. Services
-  provided include 30,000 SF of moisture mitigation, 10,000 SF of LVT, 2,500 SY
-  of sheet vinyl, 3,000 SY of carpet tile, and 8,000 SF of tile
+  Three-story medical office building for Boulder Community Health. 
+
+
+  Services provided include 30,000 SF of moisture mitigation, 10,000 SF of LVT,
+  2,500 SY of sheet vinyl, 3,000 SY of carpet tile, and 8,000 SF of tile
 location: 'Boulder, Colorado'
 thumbnail_path: /uploads/img-1107.jpg
 images:
