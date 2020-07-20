@@ -3,8 +3,11 @@ layout: work
 title: East Village Office Building
 description: >-
   Renovation of an existing three-story office building with approximately
-  138,000 GSF. Over 15,000 SF of large format tile, 500 SY of carpet tile, and
-  1200 SF of Rubber fitness flooring.
+  138,000 GSF. 
+
+
+  Services include 15,000 SF of tile, 500 SY of carpet tile, and 1,200 SF of
+  rubber fitness flooring.
 location: 'Greenwood Village, CO'
 thumbnail_path: /uploads/Central Hall East.jpg
 images:
