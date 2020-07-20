@@ -6,6 +6,8 @@ location:
 thumbnail_path: /assets/images/work/
 images:
   - image_path: /assets/images/work/
+  - image_path: /assets/images/Rectangle 26.jpg
+  - image_path: /uploads/Central Hall East.jpg
 services_performed:
   - name: Waterproofing
 search_engine_optimization:
