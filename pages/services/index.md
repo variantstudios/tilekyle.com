@@ -1,9 +1,7 @@
 ---
 layout: page
 title: Services
-subtitle: >-
-  Tile is our specialty, but we can do all types of floor coverings as well.
-  Below you will find many of the services we provide.
+subtitle: We are a full service commercial flooring contractor that specializes in tile.
 services:
   - name: Ceramic Tile Design
     description:
