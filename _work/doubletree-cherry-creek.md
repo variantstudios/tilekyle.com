@@ -9,7 +9,7 @@ description: >-
 
   Services provided include 25,000 SF of ceramic tile, 235 SY of sheet vinyl,
   23,000 LF of rubber base.
-location:
+location: 'Denver, CO'
 thumbnail_path: /assets/images/work/DoubleTree-Cherry-Creek/IMG_1771.JPG
 images:
   - image_path: /assets/images/work/DoubleTree-Cherry-Creek/IMG_1768.JPG
@@ -24,7 +24,23 @@ images:
   - image_path: /assets/images/work/DoubleTree-Cherry-Creek/IMG_1783.JPG
   - image_path: /assets/images/work/DoubleTree-Cherry-Creek/IMG_1785.JPG
 services_performed:
+  - name: Ceramic Tile
+  - name: Setting Bed
+  - name: Self Leveling
+  - name: Crack Isolation
+  - name: Epoxy Grout
+  - name: Shower Surrounds
+  - name: Custom Cut Flagstone
+  - name: Schluter
+  - name: Sound Reduction Membrane
   - name: Waterproofing
+  - name: Shower Pan
+  - name: Rubber Base
+  - name: Millwork Base
+  - name: Sheet Vinyl
+  - name: Heat Weld
+  - name: Rubber Transitions
+  - name: Skim Coat
 search_engine_optimization:
   page_title:
   page_description:
