@@ -1,9 +1,14 @@
 ---
 layout: work
 title: DoubleTree Cherry Creek
-description: |-
+description: >-
   Renovation and conversion to a DoubleTree hotel.
+
   Remodel of public areas and guest rooms.
+
+
+  Services provided include 25,000 SF of ceramic tile, 235 SY of sheet vinyl,
+  23,000 LF of rubber base.
 location:
 thumbnail_path: /assets/images/work/DoubleTree-Cherry-Creek/IMG_1771.JPG
 images:
