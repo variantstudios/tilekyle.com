@@ -32,18 +32,6 @@ staff:
       communication. Greg is supported by his wife, Melisa, of 22 years and
       their four children. In his free time, he enjoys coaching youth football,
       camping, championship drag racing and a cold brew now and then.
-  - name: Ed Zurasky
-    position: Estimator
-    image_path: /assets/images/profile.png
-    bio: >-
-      Ed has been in the flooring industry for over 30 years. He started out as
-      a carpet and resilient installer and worked his way up the ladder. He has
-      sales experience in both commercial and residential flooring. He received
-      an Armstrong Commercial sales award for a linoleum project at the Aims
-      Community College Health Sciences building. Ed spends his off time snow
-      skiing, riding a bicycle, and hiking. He loves spending time with his
-      wife, children, and grandchildren. If you catch him on a beach in Mexico,
-      you’ll find him with a good margarita and a smile on his face!
   - name: Sheila Dorcey
     position: Office Manager & Project Coordinator
     image_path: /assets/images/profile.png
