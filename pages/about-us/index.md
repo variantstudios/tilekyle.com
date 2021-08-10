@@ -45,6 +45,20 @@ staff:
       company.  Sheila is married to her amazing husband and they have 2 kids. 
       When she isn’t working, she is enjoying life on her family’s hobby farm
       full of all kinds of fur babies and never ending projects!
+  - name: Kevin Pyle
+    position: Production Manager
+    image_path:
+    bio: >-
+      Kevin started with Tile Kyle May 2019.  He has over 22 years of experience
+      including flooring, cabinet installation, high end trim carpentry,
+      designing/building custom built ends/closets and traveling nationwide for
+      3 years providing proof of concept for a wood substrate rock climbing wall
+      company.  Kevin enjoys starting with a pile of materials and watching what
+      it becomes.   In his free time, you can find him rock climbing, whitewater
+      kayaking, skate/snowboarding, enjoying quiet time and spending time with
+      his two children.   Kevin is a Colorado native, however, he lived in
+      Mexico for two years and managed an American owned nightclub in Puerto
+      Vallarta, Mexico in his early twenties.
 permalink: /about-us/
 header_image_path: /assets/images/work/wendys/002.jpg
 search_engine_optimization:
